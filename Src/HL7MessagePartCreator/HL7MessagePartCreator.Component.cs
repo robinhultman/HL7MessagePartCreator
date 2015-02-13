@@ -3,7 +3,7 @@ using System.Collections;
 using System.Linq;
 using BizTalkComponents.Utils;
 
-namespace BizTalkComponents.HL7MessagePartCreator
+namespace BizTalkComponents.PipelineComponents.HL7MessagePartCreator
 {
     public partial class HL7MessagePartCreator
     {

@@ -1,7 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalkComponents.HL7MessagePartCreator", "Src\HL7MessagePartCreator\BizTalkComponents.HL7MessagePartCreator.csproj", "{BE9752E8-A216-4761-9149-9F6AD738B00F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BizTalkComponents.PipelineComponents.HL7MessagePartCreator", "Src\HL7MessagePartCreator\BizTalkComponents.PipelineComponents.HL7MessagePartCreator.csproj", "{BE9752E8-A216-4761-9149-9F6AD738B00F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{059B90B2-2581-4C65-AC5A-69020CD20694}"
+	ProjectSection(SolutionItems) = preProject
+		Build\Build.proj = Build\Build.proj
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

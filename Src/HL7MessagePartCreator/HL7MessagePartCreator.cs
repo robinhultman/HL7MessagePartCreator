@@ -12,7 +12,7 @@ using Microsoft.BizTalk.Message.Interop;
 using Microsoft.XLANGs.RuntimeTypes;
 using IComponent = Microsoft.BizTalk.Component.Interop.IComponent;
 
-namespace BizTalkComponents.HL7MessagePartCreator
+namespace BizTalkComponents.PipelineComponents.HL7MessagePartCreator
 {
     [ComponentCategory(CategoryTypes.CATID_PipelineComponent)]
     [System.Runtime.InteropServices.Guid("23E5CD5D-B0D6-4546-8E86-05038ACE8542")]
